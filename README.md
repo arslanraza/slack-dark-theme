@@ -12,6 +12,18 @@ cd slack-dark-theme
 ./run.sh
 ```
 
+* A menu will be displayed in terminal window as following
+```
+~~~~~~~~~~~~~~~~~~~~~
+ M A I N - M E N U
+~~~~~~~~~~~~~~~~~~~~~
+1. Apply Dark theme
+2. Restore Light theme
+3. Exit
+Enter choice [ 1 - 3]
+```
+
+* Select 1 if you want to apply dark theme or 2 if you want to revert it back to light theme.
 * Once the installation is successful, you should see an output like this
 ```sh
 Closing Slack if its running...
